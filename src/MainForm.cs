@@ -29,12 +29,12 @@ namespace SharpBrowser {
 
 		public static string Branding = "SharpBrowser";
 		public static string UserAgent = "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36";
-		public static string HomepageURL = "https://www.google.com";
+		public static string HomepageURL = "https://www.baidu.com";
 		public static string NewTabURL = "about:blank";
 		public static string DownloadsURL = "sharpbrowser://storage/downloads.html";
 		public static string FileNotFoundURL = "sharpbrowser://storage/errors/notFound.html";
 		public static string CannotConnectURL = "sharpbrowser://storage/errors/cannotConnect.html";
-		public static string SearchURL = "https://www.google.com/search?q=";
+		public static string SearchURL = "https://www.baidu.com/search?q=";
 
 		public bool WebSecurity = true;
 		public bool CrossDomainSecurity = true;
